@@ -1,0 +1,34 @@
+{
+    "workbench.colorTheme": "Andromeda Italic Bordered",
+    "workbench.iconTheme": "file-icons-mac",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.fontSize": 20,
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "cSpell.language": "en,en-US",
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "C:\\Program Files\\Git\\bin\\bash.exe (migrated)",
+    "terminal.integrated.automationShell.linux": "",
+    "editor.codeLensFontFamily": "Operator Mono",
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.profiles.windows": {
+        "C:\\Program Files\\Git\\bin\\bash.exe (migrated)": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "args": []
+        }
+    },
+    "workbench.productIconTheme": "icons-carbon",
+    "tabnine.experimentalAutoImports": true,
+    "window.zoomLevel": -1,
+    "terminal.integrated.automationShell.osx": "",
+    "settingsSync.ignoredExtensions": [
+        
+    
+    ]
+}
